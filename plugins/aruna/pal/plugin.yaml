@@ -1,0 +1,10 @@
+plugin:
+    name: 'aruna.pal::lang.plugin.name'
+    description: 'aruna.pal::lang.plugin.description'
+    author: Aruna
+    icon: oc-icon-adjust
+    homepage: ''
+permissions:
+    Pal_ArunaGamage:
+        tab: 'aruna.pal::lang.plugin.name'
+        label: 'aruna.pal::lang.plugin.name'
